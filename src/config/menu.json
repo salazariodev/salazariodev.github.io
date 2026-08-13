@@ -1,24 +1,20 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Sobre mí",
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Pages",
+      "name": "Páginas",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
+          "name": "Contacto",
           "url": "/contact"
         },
         {
@@ -26,19 +22,19 @@
           "url": "/blog"
         },
         {
-          "name": "Authors",
+          "name": "Autores",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "Categorías",
           "url": "/categories"
         },
         {
-          "name": "Tags",
+          "name": "Etiquetas",
           "url": "/tags"
         },
         {
-          "name": "404 Page",
+          "name": "Página 404",
           "url": "/404"
         }
       ]
@@ -46,11 +42,7 @@
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
+      "name": "Política de Privacidad",
       "url": "/privacy-policy"
     }
   ]
