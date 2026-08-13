@@ -1,15 +1,16 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "SalazarioDev",
     "base_url": "https://salazariodev.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "favicon": "/images/s-favicon.png",
+    "logo": "/images/s-logo.png",
+    "logo_darkmode": "/images/s-logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "SalazarioDev",
+    "description": "Aprende automatización con n8n, No-Code e IA. Guías para hacerlo tú mismo… y flujos ya construidos si prefieres solo disfrutar el resultado."
   },
 
   "settings": {
